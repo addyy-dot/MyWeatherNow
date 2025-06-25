@@ -15,3 +15,7 @@ A responsive weather forecast web app built with HTML, CSS, and JavaScript that 
 2. Open the project in your code editor.
 3. Go to `script.js` and **replace the sample API key** with your own from [WeatherAPI](https://www.weatherapi.com).
 4. Open `index.html` in your browser.
+## 🖼️ Preview
+
+![App Preview](./images/screenshot.jpeg)
+
