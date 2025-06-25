@@ -19,3 +19,4 @@ A responsive weather forecast web app built with HTML, CSS, and JavaScript that 
 
 ![App Preview](./images/screenshot.jpeg)
 
+
