@@ -17,6 +17,7 @@ A responsive weather forecast web app built with HTML, CSS, and JavaScript that 
 4. Open `index.html` in your browser.
 ## 🖼️ Preview
 
-![App Preview](./images/screenshot.jpeg)
+![App Preview](images/images/screenshot.jpeg)
+
 
 
