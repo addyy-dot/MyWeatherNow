@@ -18,6 +18,7 @@ A responsive weather forecast web app built with HTML, CSS, and JavaScript that 
 ## 🖼️ Preview
 
 ![App Preview](images/images/screenshot.jpeg)
+🔑 *Note:* API key has been removed for security. Please use your own key in the JS file.
 
 
 
